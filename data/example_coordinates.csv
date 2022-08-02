@@ -1,0 +1,276 @@
+﻿id,location name,latitude (decimal degrees),longitude (decimal degrees)
+1,Camden County Public Water Supply District Number Four,38.026527,-92.765327
+2,City of Canton KS,38.395812,-97.647489
+3,Albuquerque Bernalillo County Water Utility Authority,35.053628,-106.66908
+4,Aliquippa Municipal Water Authority Water & Sewer Revenue,40.68414,-80.350721
+5,County of Anne Arundel MD,38.991617,-76.560894
+6,City of Bessemer AL Water Revenue,33.553444,-86.896536
+7,City of Beaumont TX Waterworks & Sewer System Revenue,29.854,-94.149331
+8,City of Burnsville MN,44.670893,-93.062481
+9,City of Amarillo TX Waterworks & Sewer System Revenue,35.398675,-101.893804
+10,City of Atlanta IL,40.129277,-89.365309
+11,Casitas Municipal Water District,34.358748,-119.133145
+12,City of Abilene TX,32.297126,-99.89043
+13,Discovery Bay Public Financing Authority,37.919479,-121.951543
+14,District of Columbia Water & Sewer Authority,38.904247,-77.016517
+15,City of Dixon CA,38.267226,-121.939594
+16,City of Detroit Lakes MN,46.937629,-95.741757
+17,City of Olive Branch MS Water & Sewer System Revenue,34.874922,-89.991211
+18,City of Norborne MO Waterworks & Sewer System Revenue,39.427375,-93.500227
+19,Sienna Municipal Utility District No 4,29.526602,-95.771015
+20,City of Oneonta NY,42.629776,-75.028841
+21,County of Onondaga NY,43.006516,-76.196134
+22,South Dakota Conservancy District,44.384452,-99.975684
+23,Opelika Utilities Board,32.604064,-85.353048
+24,City of Shelbyville TN,35.51366,-86.458294
+25,City of Newport News VA Water Revenue,37.076136,-76.52198
+26,City of Nichols Hills OK,35.554611,-97.409401
+27,Six Mile Creek Community Development District,30.45931,-84.2778
+28,City of Van TX,32.558787,-95.836906
+29,Vera Water & Power,47.620375,-117.403371
+30,Town of Niskayuna NY,42.817552,-74.043559
+31,City of Norfolk VA,36.923015,-76.244641
+32,Town of North Attleborough MA,41.748588,-71.088894
+33,Village of North Aurora IL,41.939594,-88.42804
+34,Presidential Glen Municipal Utility District,30.239513,-97.69127
+35,Village of Somers WI Water & Sewer Revenue,45.028959,-92.447284
+36,Red River Authority Utility Revenue,33.988212,-98.70801
+37,Springfield Water & Sewer Commission/MA,42.136198,-72.635648
+38,City of Springtown TX,32.777096,-97.805905
+39,Ralls County Public Water Supply District No 1,39.807538,-91.635379
+40,City of Sparta TN Water & Sewer Revenue,35.927049,-85.455785
+41,Randall Community Water District,43.206185,-98.595143
+42,City of Spartanburg SC Water System Revenue,34.932014,-81.991624
+43,City of Pleasanton TX,28.891478,-98.535381
+44,City of Plattsburgh NY,44.752712,-73.705643
+45,City of Richland WA Waterworks Utility Revenue,46.228125,-119.516659
+46,City of Savage MN,44.651805,-93.533731
+47,Borough of Sayreville NJ,40.439621,-74.40743
+48,City of San Francisco CA Public Utilities Commission Water Revenue,37.727239,-123.032229
+49,San Bruno Public Financing Authority,37.414672,-122.371546
+50,Borough of Pemberton NJ,39.875786,-74.663006
+51,Township of Peninsula MI,44.718688,-85.553848
+52,City of Chandler TX,32.211633,-95.853418
+53,City of Cedar Rapids IA Water Revenue,42.077951,-91.597674
+54,County of Berrien MI,41.791382,-86.742543
+55,Antelope Valley-East Kern Water Agency Financing Authority,35.346629,-118.729506
+56,City of Bloomington IN Waterworks Revenue,39.160729,-86.52331
+57,City of Brigantine NJ,39.469355,-74.633759
+58,City of Brenham TX,30.215075,-96.410272
+59,City of Biloxi MS,30.416536,-89.083376
+60,City of Buffalo MN,45.175091,-93.966396
+61,City of Burleson TX,32.379821,-97.364959
+62,City of Burlington VT Waterworks System Revenue,44.463329,-73.06941
+63,City of Andover KS,37.773649,-96.83884
+64,City of Charlottesville VA,38.037658,-78.485381
+65,City of Chenoa IL,40.494559,-88.844539
+66,City of Carver MN,44.82132,-93.800091
+67,Town of Cary NC Combined Utility Systems Revenue,35.789846,-78.650624
+68,City of Baltimore MD,39.300032,-76.610476
+69,City of Batavia NY,43.00091,-78.192778
+70,City of Baudette MN,48.7681,-94.904633
+71,Fairfax County Water Authority,38.82952,-77.273252
+72,Village of Fontana on Geneva Lake WI,42.66811,-88.541731
+73,City of Manhattan KS,39.291211,-96.727489
+74,City of Manistee MI Water Supply & Sewage Disposal System Revenue,44.245268,-86.327537
+75,City of Lake Mills WI Combined Utility System Revenue,43.013804,-88.773985
+76,Lake View Management and Development District,32.211633,-95.853418
+77,City of Llano TX,30.707584,-98.68469
+78,City of Jasper AL,33.791558,-87.301094
+79,City of Horace ND,46.927003,-97.252375
+80,Eufaula Water Works & Sewer Board,31.870253,-85.405104
+81,City of Evansdale IA,42.471132,-92.3076
+82,City of Herculaneum MO,38.25763,-90.543681
+83,City of Hermiston OR,45.5912,-118.73388
+84,City of Herrin IL,37.730353,-88.930018
+85,Village of Hershey NE,41.050322,-100.744481
+86,Board of Water Light & Sinking Fund Commissioners of The City of Dalton/The,34.801726,-84.968541
+87,City of Danville KY,37.618104,-84.868352
+88,County of Hudson NJ,40.731375,-74.078601
+89,City of Dunlap TN,36.169129,-86.78479
+90,Magna Water District,40.667883,-111.92424
+91,Harris County Municipal Utility District No 499,29.857273,-95.393037
+92,County of Erie OH,41.394143,-82.586835
+93,City of Corning NY,42.266725,-77.385525
+94,Village of Elk Rapids MI,45.005455,-85.175639
+95,City of Elmhurst IL,41.852058,-88.086039
+96,City of Ennis TX,32.346878,-96.79694
+97,City of Franklin TN Water & Sewer Revenue,35.894807,-86.898068
+98,Colorado Water Resources & Power Development Authority,39.76185,-104.881105
+99,Colton Utility Authority,34.856661,-116.181571
+100,Village of Caledonia WI Water & Sewer System Revenue,42.780392,-87.771599
+101,Chowchilla Public Financing Authority,37.209821,-119.749802
+102,Chester Metropolitan District,34.689342,-81.161249
+103,Clark County Public Utility District No 1,45.77173,-122.485953
+104,Fayette County Water Control & Improvement District,29.877886,-96.921231
+105,Finney County Rural Water District No 1,38.049808,-100.739967
+106,Public Water Supply District No 3 of Franklin County MO,38.413003,-91.072832
+107,East Wenatchee Water District/WA,47.741763,-119.694622
+108,Town of Edisto Beach SC Combined Waterworks & Sewer System Revenue,32.835018,-80.655244
+109,State of Connecticut Clean Water Fund - State Revolving Fund,41.806053,-72.732916
+110,City of Cleveland TX,30.158508,-94.844061
+111,Easley Combined Utility System,34.885368,-82.723377
+112,Town of East Bloomfield NY,42.856357,-77.303497
+113,Town of Holden MA,42.311693,-71.940282
+114,City of Mineola TX,32.783588,-95.382166
+115,Guadalupe-Blanco River Authority,29.582671,-97.948995
+116,County of Ionia MI,42.94465,-85.073766
+117,Kentucky Rural Water Finance Corp,36.995634,-86.423579
+118,Keokuk Municipal Water Works,40.647588,-91.477157
+119,City of Kerkhoven MN,45.27581,-95.690124
+120,City of Kiel WI Water System Revenue,44.07841,-88.212132
+121,City of Kilgore TX,32.486401,-94.816277
+122,Greatrock North Water & Sanitation District,39.579511,-105.245462
+123,City of Green Forest AR Water & Sewer Revenue,36.33737,-93.540972
+124,County of Greene OH,39.687479,-83.894894
+125,City of Giddings TX,30.321498,-96.976823
+126,City of Gig Harbor WA Water & Sewer Revenue,47.051413,-122.15324
+127,Village of Giltner NE,40.872817,-98.022329
+128,City of Glencoe MN,44.821657,-94.272323
+129,Johnson County Water District No 1,38.883907,-94.82233
+130,City of Johnsonville SC Waterworks & Sewer System Revenue,34.028535,-79.710233
+131,Village of Johnstown OH,40.091505,-82.483435
+132,City of Hurricane UT Water Revenue,37.262531,-113.4878
+133,Kendall County Water Control & Improvement District No 2A,29.943525,-98.709269
+134,City of Mesa AZ Utility System Revenue,33.345176,-112.49893
+135,City of Greensboro NC Combined Water & Sewer System Revenue,36.079065,-79.788665
+136,Greenville Waterworks & Sewer Board,31.751667,-86.681969
+137,City of Fort Lupton CO Water Revenue,40.555961,-104.383666
+138,City of Fort Stockton TX,30.773298,-102.718153
+139,Fort Wayne Storm Revenue District,41.091909,-85.071791
+140,Lehigh County Authority,40.614241,-75.590627
+141,City of Hagerstown MD,39.603621,-77.814671
+142,City of Dover NH,43.293272,-71.035589
+143,Greater Texoma Utility Authority,33.624524,-96.675693
+144,Indiana Finance Authority,39.782976,-86.135794
+145,City of Lake Elmo MN,45.037929,-92.890117
+146,City of Kalamazoo MI Water Supply System Revenue,42.246266,-85.532854
+147,City of Kansas City MO Water Revenue,39.005364,-94.343211
+148,City of Kasson MN,44.020706,-92.869353
+149,Kaufman County Fresh Water Supply District No 1-C,32.598944,-96.288377
+150,City of Kaukauna WI Waterworks System Revenue,44.418226,-88.464988
+151,City of Miami Beach FL Water & Sewer Revenue,25.616009,-80.50375
+152,Village of Montgomery IL,41.58814,-88.430626
+153,King County Water District No 49,47.490552,-121.833977
+154,City of Kingsport TN,36.509681,-82.301336
+155,City of Knoxville TN Water System Revenue,35.992726,-83.937721
+156,City of New Ulm MN,44.246541,-94.733647
+157,City of Menomonie WI,44.947751,-91.897645
+158,City of Memphis TN Water Revenue,35.184553,-89.894612
+159,Menifee Union School District,33.729828,-116.002239
+160,New York State Environmental Facilities Corp,42.58824,-73.97401
+161,City of McKinney TX Waterworks & Sewer System Revenue,33.194494,-96.579428
+162,Town of Mattapoisett MA,41.987196,-70.741942
+163,Village of Naplate IL,41.343341,-88.885931
+164,Santa Clara Valley Water District,37.221614,-121.68954
+165,San Leon Municipal Utility District/TX,29.233453,-94.888456
+166,San Luis Water District,37.194806,-120.722802
+167,City of North Liberty IA,41.670668,-91.590529
+168,Paseo Del Este Municipal Utility District No 3,31.76648,-106.241423
+169,Paseo del Este Municipal Utility District No 2,31.76648,-106.241423
+170,Payette Lakes Recreational Water & Sewer District,44.85596,-115.618061
+171,City of Peculiar MO Water & Sewer Revenue,38.646474,-94.354547
+172,City of Sacramento CA Water Revenue,38.450136,-121.344329
+173,County of Oconee GA Water & Sewerage Revenue,33.834125,-83.437728
+174,Town of Orleans MA,41.706123,-70.164823
+175,City of Osceola IA Water Revenue,41.029726,-93.785259
+176,City of Oshkosh WI Water Revenue,44.085707,-88.668149
+177,City of Ottawa KS,38.558019,-95.278962
+178,City of Oxford MS,34.353078,-89.485385
+179,City of Philadelphia MS Waterworks & Sewage System Revenue,32.752518,-89.119274
+180,City of Phillips WI Water & Sewer System Revenue,45.679072,-90.35965
+181,City of Pikeville KY,37.486031,-82.410912
+182,City of Pilot Point TX,33.205132,-97.12114
+183,City of Roswell NM Joint Water & Sewer Revenue,33.361604,-104.469837
+184,City of Royse City TX,32.899886,-96.41205
+185,Lynwood Utility Authority,34.196398,-118.261862
+186,Charter Township of Lyon MI,42.660452,-83.38421
+187,City of Petoskey MI Water & Sewer Revenue,45.590094,-84.986822
+188,City of Peosta IA,42.463481,-90.878771
+189,City of Las Vegas NV,36.21413,-115.014398
+190,City of Las Vegas NV Special Improvement District No 813,36.21413,-115.014398
+191,City of Laurel MS Water & Sewer System Revenue,31.616601,-89.168532
+192,City of Lawrence KS Water & Sewage System Revenue,38.896417,-95.290947
+193,City of Laredo TX Waterworks & Sewer System Revenue,27.760799,-99.340752
+194,City of Little Rock AR Water Reclamation System Revenue,34.770311,-92.312996
+195,City of Le Sueur MN,44.373424,-93.730143
+196,Town of Mount Pleasent SC Water & Sewer Revenue,32.800458,-79.94248
+197,Marin Water District Financing Authority,38.051367,-122.746396
+198,City of Norwalk IA,41.332446,-93.568751
+199,State of Nevada,39.15306,-119.747368
+200,Village of Prairie du Sac WI,43.428001,-89.943318
+201,Village of Richton Park IL,41.894294,-87.645455
+202,State of Minnesota,45.015204,-93.099965
+203,Massachusetts Clean Water Trust/The,42.338551,-71.018253
+204,State of Vermont,44.274969,-72.609444
+205,City of Verona WI,43.067468,-89.417852
+206,Stuart Municipal Utilities Electric Revenue,41.683573,-94.501272
+207,City of Sugar Land TX Waterworks & Sewer System Revenue,29.526602,-95.771015
+208,City of Sulphur Springs TX,33.148967,-95.565434
+209,Sunfield Municipal Utility District No 1,30.061225,-98.029267
+210,City of Upper Arlington OH,39.969875,-83.009086
+211,Williamson County Municipal Utility District No 12,30.649082,-97.605065
+212,City of West Liberty IA,41.483776,-91.118699
+213,Town of West Newbury MA,42.642708,-70.864909
+214,West Sacramento Financing Authority,38.679609,-121.90275
+215,West Williamson County Municipal Utility District No 1,30.649082,-97.605065
+216,County of Westchester NY,41.152686,-73.745753
+217,City of Thief River Falls MN,48.069247,-96.037725
+218,City of Wichita KS Water & Sewer Utility Revenue,37.681045,-97.461054
+219,City of Tulare CA Water Revenue,36.228834,-118.781055
+220,Village of Sussex WI Water System Revenue,43.018368,-88.30424
+221,City of Sweeny TX,29.167817,-95.434647
+222,Sweetwater Authority,33.023604,-116.776117
+223,Village of Wauconda IL,42.185968,-87.805939
+224,City of Wausau WI Water System Revenue,44.898036,-89.757823
+225,City of Wauwatosa WI Waterworks System Revenue,42.912643,-87.862312
+226,Town of Westport CT,41.227413,-73.367061
+227,Village of Tremont IL,40.508074,-89.51626
+228,City of Trenton NJ,40.282503,-74.703724
+229,Trinity River Authority Central Regional Wastewater System Revenue,32.772119,-97.291224
+230,City of Tucson AZ Water System Revenue,32.128038,-111.783657
+231,Tulsa Metropolitan Utility Authority,36.120318,-95.941813
+232,Turtle Run Community Development District,26.193535,-80.476683
+233,Yorba Linda Water District,33.675687,-117.777207
+234,Town of Wayland MA,42.481718,-71.394916
+235,Wayne County Water & Sewer Authority,43.218114,-77.049402
+236,City of Waynesville MO,37.824835,-92.207022
+237,County of Union NC Enterprise System Revenue,34.99182,-80.530426
+238,St Marys Area Water Authority,41.427332,-78.653937
+239,Washington Suburban Sanitary Commission,38.829278,-76.848188
+240,City of Wolfforth TX,33.611469,-101.819944
+241,City of Woodbury NJ,39.722875,-75.145679
+242,Village of Woodbury NY,41.40241,-74.306252
+243,Woodridge Municipal Utility District,30.298801,-95.50295
+244,City of Windom MN,44.010639,-95.183152
+245,City of Winston-Salem NC Water & Sewer System Revenue,36.132466,-80.256961
+246,City of Story City IA,42.037538,-93.466093
+247,City of Waller TX,30.01359,-95.982149
+248,Town of Walpole MA,42.171738,-71.18111
+249,City of Rensselaer IN Waterworks Revenue,41.017688,-87.118814
+250,Reunion Ranch Water Control & Improvement District,30.239513,-97.69127
+251,State of Rhode Island,41.869768,-71.578625
+252,City of Waco TX,31.549596,-97.201511
+253,Porter Municipal Utility District Auburn Trails Defined Area No 1,30.298801,-95.50295
+254,Portland Water District Water System Revenue,43.808348,-70.330375
+255,City of Romulus MI,42.284664,-83.261953
+256,City of Washington Terrace UT Water Sewer Storm Water & Refuse Revenue,41.270325,-111.876883
+257,City of Salt Lake City UT Public Utilities Revenue,40.667883,-111.92424
+258,South Middleton Township Municipal Authority,40.164805,-77.263442
+259,Washington County Water Conservancy District,37.262531,-113.4878
+260,Township of Rockaway NJ,40.858896,-74.547292
+261,Village of Rockville Centre NY,40.729612,-73.589414
+262,City of Rockville MD,39.137381,-77.203063
+263,City of West Bend WI,43.391156,-88.232917
+264,City of West Des Moines IA,41.684816,-93.568971
+265,West Harris County Municipal Utility District No 21,29.857273,-95.393037
+266,City of Temple TX Utility System Revenue,31.04275,-97.481268
+267,County of Santa Fe NM,35.514531,-105.963972
+268,Santa Rosa Regional Resources Authority,33.729828,-116.002239
+269,City of State Center IA,42.0417,-92.981403
+270,City of Tomah WI,43.945175,-90.619969
+271,City of Topeka KS Combined Utility Revenue,39.041805,-95.755664
+272,Viridian Municipal Management District,32.766987,-96.778424
+273,City of Robbinsdale MN,45.006121,-93.475228
+274,Robinson Township Municipal Authority,40.469757,-79.980451
+275,City of Universal City TX,29.448671,-98.520147
